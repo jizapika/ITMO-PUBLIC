@@ -1,5 +1,4 @@
-<p><img src= "https://media2.giphy.com/media/4QZK21zlzVIyc/giphy.gif?cid=ecf05e47umveldb5pm9d5huwnk3tjdk40yucfcef3bq110pa&rid=giphy.gif&ct=s" width = "25%" align = "right"></p>
-<img src= "https://komarev.com/ghpvc/?username=fadyat" width="13.90%" align = "right">
+<p><img src= "http://pa1.narvii.com/6846/ebf10202ce1a5f9ab6537d7388ae5eb0b35f22ce_00.gif" width = "27%" align = "right"></p>
 
 + **University:**  *ITMO*
 
