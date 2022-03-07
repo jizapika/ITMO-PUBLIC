@@ -1,2 +1,1 @@
-git grep -l 'ITMO-PROBLEMS' |
-xargs sed -i '' -e 's/ITMO-PROBLEMS/ITMO-PUBLIC/g'
+find . -type f -name '*.md' -exec sed -i '' 's/ITMO-PROBLEMS/ITMO-PUBLIC/' {} +

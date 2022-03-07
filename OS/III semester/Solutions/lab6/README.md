@@ -2,7 +2,7 @@
 
 > I'm not sure of the veracity of the decision, didn't defend the work
 
-[1.](https://github.com/fadyat/ITMO-PROBLEMS/blob/master/OS/III%20semester/Solutions/lab6/src1.bat) Работа с файлами и директориями
+[1.](https://github.com/fadyat/ITMO-PUBLIC/blob/master/OS/III%20semester/Solutions/lab6/src1.bat) Работа с файлами и директориями
 
 - Создать каталог на диске С:\ с именем LAB6. В нем создать файлы с информацией о версии операционной системы, свободной и занятой памяти, жестких дисках, подключенных в системе. Имена файлов должны соответствовать применяемым для получения данных командам.
 - Создать подкаталог TEST, в него скопировать содержимое каталога LAB6. Сделать этот каталог текущим.
@@ -12,7 +12,7 @@
 использованными для выполнения п.п. 1.1–1.4.
 
 
-[2.](https://github.com/fadyat/ITMO-PROBLEMS/blob/master/OS/III%20semester/Solutions/lab6/src2.bat)
+[2.](https://github.com/fadyat/ITMO-PUBLIC/blob/master/OS/III%20semester/Solutions/lab6/src2.bat)
 Запуск и удаление процессов
 
 - Узнать имя компьютера (хоста). Создать сетевой ресурс
@@ -25,7 +25,7 @@
 - Создать текстовый файл со списком использованных команд с параметрами,
 использованными для выполнения п.п. 2.1–2.6.
 
-[3.](https://github.com/fadyat/ITMO-PROBLEMS/blob/master/OS/III%20semester/Solutions/lab6/src3.bat)
+[3.](https://github.com/fadyat/ITMO-PUBLIC/blob/master/OS/III%20semester/Solutions/lab6/src3.bat)
 Работа со службами
 
 - Получить файл, содержащий список служб, запущенных в системе.
@@ -39,7 +39,7 @@
 	- восстановление работы служб.
 - Создать текстовый файл со списком использованных команд и параметрами, использованными для выполнения пп. 3.1–3.2.
 
-[4.](https://github.com/fadyat/ITMO-PROBLEMS/blob/master/OS/III%20semester/Solutions/lab6/src4.bat)
+[4.](https://github.com/fadyat/ITMO-PUBLIC/blob/master/OS/III%20semester/Solutions/lab6/src4.bat)
 Поиск и сортировка информации в файлах
 
 - Поместить список всех имен драйверов, загруженных в системе, в файл DRIVERS, в табличной форме.

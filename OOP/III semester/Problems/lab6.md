@@ -22,7 +22,7 @@
 
 Иерархия сотрудников представляется следующим образом: тимлид - сотрудник, руководитель - корень дерева, которому подчиняются другие сотрудники, которые могут иметь или не иметь подчинённых.
 
-![](https://github.com/fadyat/ITMO-PROBLEMS/blob/master/OOP/III%20semester/Data/reportsImage.png)
+![](https://github.com/fadyat/ITMO-PUBLIC/blob/master/OOP/III%20semester/Data/reportsImage.png)
 
 ### Задача
 
