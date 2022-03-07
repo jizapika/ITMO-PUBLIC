@@ -7,7 +7,7 @@
 
 ### Modeling:
 - [Маятник Фуко](https://github.com/fadyat/ITMO-PUBLIC/blob/master/Physics/III%20semester/Modeling/mod1/mod1.pdf)
-- [Гомография](https://github.com/fadyat/ITMO-PUBLIC/blob/master/Physics/III%20semester/Modeling/mod1/mod2.pdf)
+- [Гомография](https://github.com/fadyat/ITMO-PUBLIC/blob/master/Physics/III%20semester/Modeling/mod2/mod2.pdf)
 
 ### Tests:
 - [1.](https://github.com/fadyat/ITMO-PUBLIC/blob/master/Physics/III%20semester/Test/test1-task.pdf) &nbsp;# [Test 1](https://github.com/fadyat/ITMO-PROBLEMS/blob/master/Physics/III%20semester/Test/test1-solution.pdf)
